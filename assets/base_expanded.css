@@ -758,7 +758,7 @@ p {
 .menu-item-info {
   width: 100%}
 .has-images .menu-item:hover .menu-item-info {
-  height: 276px;
+  height: 184px;
   top: 0;
 }
 .menu-item-name {
@@ -1360,7 +1360,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 202px;
+    height: 135px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -1384,10 +1384,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 202px;
+    height: 135px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 202px;
+    height: 135px;
   }
   .has-images .menu-item-variations {
     display: none;
@@ -1596,7 +1596,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 276px;
+    height: 184px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -1620,10 +1620,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 276px;
+    height: 184px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 276px;
+    height: 184px;
   }
   .has-images .menu-item-variations {
     display: none;
@@ -2288,7 +2288,7 @@ p {
     margin-top: 1.21429em;
   }
   .menu-item-image:before {
-    height: 276px;
+    height: 184px;
   }
   .menu-item-info {
     min-height: 40px;
@@ -2312,10 +2312,10 @@ p {
     white-space: nowrap;
   }
   .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
-    height: 276px;
+    height: 184px;
   }
   .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
-    height: 276px;
+    height: 184px;
   }
   .has-images .menu-item-variations {
     display: none;
